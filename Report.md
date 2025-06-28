@@ -1,8 +1,4 @@
----
 
-## 📘 `docs/Report.md`
-
-```markdown
 # 📘 Technical Report: AI-Powered Hybrid Exam Proctoring System
 
 ## 1.0 Problem Statement
